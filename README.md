@@ -4,5 +4,5 @@
 
 
 # Para poder visualizar el carrito entrar al siguinete link: 
-<a> modest-galileo-c45ef8.netlify.app </a>
+<a> carrito-compras-luc.netlify.app </a>
 
